@@ -12,6 +12,8 @@ I designed a high-level architecture diagram in **draw.io** showing three layers
 
 ### Excel Analytics
 I analyzed the Sample Superstore dataset in Excel. I used VLOOKUP to cross-reference data, built pivot tables to summarize sales and profit, created charts to visualize trends, and put together a dashboard covering key metrics like Total Sales, Total Profit, Profit Ratio, and breakdowns by segment, category, region, and customer.
+![dashboard](dashboard.png)
+![dashboard](dashboard_1.png)
 
 ## Files
 - `ARCHITECTURE.drawio` — analytics solution architecture diagram
